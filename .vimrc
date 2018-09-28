@@ -7,6 +7,9 @@ set nocompatible
 " 语法高亮
 syntax on
 
+" backspace键不能后退回到上一行的问题
+set backspace=indent,eol,start
+
 " 显示插入,视图模式在下方
 set showmode
 set showcmd
