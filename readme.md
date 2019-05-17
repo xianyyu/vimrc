@@ -1,4 +1,4 @@
-# 本人自用的配置文件 minimized
+# 本人自用的配置文件 dailyuse
 
-* vim 最小化配置文件
+* vim 日常使用完善的dotfile
 
