@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/longji/.subversion/auth/svn.username'
+let g:netrw_dirhist_2='/home/longji/qira/tracers/qemu'
+let g:netrw_dirhist_3='/home/longji/.config/gzdoom'
+let g:netrw_dirhist_4='/home/longji/文档/重要工作文档/密码修改完成的配置文件/hx-voeps1/purt01/etc'
